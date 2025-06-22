@@ -32,7 +32,7 @@ The best command line script for roblox.
 [![Discord](https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png)](https://discord.gg/78ZuWSq)
 The best command line script for roblox.
 
-[![img](https://github.com/itzC9/IYremastered/logo/iy.png)]
+[![https://github.com/itzC9/IYremastered/logo/iy.png](https://raw.githubusercontent.com/itzC9/IYremastered/refs/heads/main/logo/iy.png)]
 
 Get it [here](https://github.com/EdgeIY/infiniteyield/wiki)
 
