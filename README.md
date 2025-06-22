@@ -29,7 +29,7 @@ The best command line script for roblox.
 # ##############
 
 # Infinite Yield:
-![Discord]([https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4faHtKq52_BhPUDKoBiOJPYp8eUikJ-b7MvK6eSPgQ&s))(https://discord.gg/78ZuWSq)
+[![Discord]([https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4faHtKq52_BhPUDKoBiOJPYp8eUikJ-b7MvK6eSPgQ&s))](https://discord.gg/78ZuWSq)
 The best command line script for roblox.
 
 ![https://github.com/itzC9/IYremastered/logo/iy.png](https://raw.githubusercontent.com/itzC9/IYremastered/refs/heads/main/logo/iy.png)
